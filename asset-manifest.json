@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/triveous-news-app/static/css/main.a4838356.css",
+    "main.js": "/triveous-news-app/static/js/main.fbd905b7.js",
+    "static/js/787.ca8ed23b.chunk.js": "/triveous-news-app/static/js/787.ca8ed23b.chunk.js",
+    "index.html": "/triveous-news-app/index.html",
+    "main.a4838356.css.map": "/triveous-news-app/static/css/main.a4838356.css.map",
+    "main.fbd905b7.js.map": "/triveous-news-app/static/js/main.fbd905b7.js.map",
+    "787.ca8ed23b.chunk.js.map": "/triveous-news-app/static/js/787.ca8ed23b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4838356.css",
+    "static/js/main.fbd905b7.js"
+  ]
+}
